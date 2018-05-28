@@ -1,0 +1,14 @@
+.nav-text{
+    font-size: 150%;
+}
+
+.ant-layout-sider-zero-width-trigger {
+    color: Black;
+    background: white;
+    top: 10px;
+    z-index: 10;
+}
+
+.ant-layout-sider-zero-width-trigger:hover{
+    background: white;
+}
